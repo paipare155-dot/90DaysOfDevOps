@@ -1,7 +1,7 @@
 Q-What is your understanding of DevOps and Cloud Engineering?
 
 Answer-	
-DevOps means development and operations, after development we need to build,test and deploy the application so devops will do all this by automoting the things.
+	DevOps means development and operations, after development we need to build,test and deploy the application so devops will do all this by automoting the things.
 to reduce manual work devops will automate the manual things so that it will reduce the time, manual work.
 	Cloud engineering using the services over the internet like using servers so that we can allow user to access it and work on it, not only servers there are lot 
 of things which is available on cloud and it is easily accessible by everyone.and proper management of services which will cost according to only pay for the services.
@@ -17,11 +17,11 @@ Platforms like Amazon Web Services provide services such as servers, storage, ne
 
 
 
-For interview speaking, you can also use this shorter and natural version:
+For interview -
 
-“DevOps is the process of automating application build, testing, and deployment to reduce manual work and improve delivery speed.
-Cloud Engineering is about using cloud platforms like AWS to manage servers and other services over the internet instead of maintaining 
-physical hardware manually.”
+	DevOps is the process of automating application build, testing, and deployment to reduce manual work and improve delivery speed.
+	Cloud Engineering is about using cloud platforms like AWS to manage servers and other services over the internet instead of maintaining 
+physical hardware manually.
 
 
 Why you are starting learning DevOps & Cloud?
