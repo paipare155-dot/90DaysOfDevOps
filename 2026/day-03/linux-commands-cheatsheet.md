@@ -18,3 +18,13 @@
 18- ss -tulnp -> It is used to dispaly ports and active connection.
 19- cd .. ->     IT is used to go back from currect folder to previous.
 20- nohup ->     It is used to keep a process running even after closing the terminal.
+21- ls -la ->    It will shows all files including hiddden files.
+22- mkdir ->     It will create new directory.
+23- touch ->     It is used to create new file.
+24- cp ->        It is used copy file or directory.
+25- mv ->        move or rename file or directory.
+26- rm -rf ->    Remove file or directory forcefully.
+27- ping ->      Check network connectivity.
+28- ip addr ->   To display ip address.
+29- free -m ->   To check memory usage.
+30- uname -a ->  It shows linux system information.
